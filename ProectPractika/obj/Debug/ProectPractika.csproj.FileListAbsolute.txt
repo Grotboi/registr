@@ -1,0 +1,16 @@
+D:\Хранилище C#\ProectPractika\bin\Debug\ProectPractika.exe.config
+D:\Хранилище C#\ProectPractika\bin\Debug\ProectPractika.exe
+D:\Хранилище C#\ProectPractika\bin\Debug\ProectPractika.pdb
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.csproj.AssemblyReference.cache
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.csproj.SuggestedBindingRedirects.cache
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.Form1.resources
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.Form2.resources
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.Properties.Resources.resources
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.csproj.GenerateResource.cache
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.csproj.CoreCompileInputs.cache
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.exe
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.pdb
+D:\Хранилище C#\ProectPractika\bin\Debug\Павлов бд.accdb
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.Form3.resources
+D:\Хранилище C#\ProectPractika\obj\Debug\ProectPractika.AboutBox1.resources
+D:\Хранилище C#\ProectPractika\obj\Debug\Reg.RegistrationForm.resources
